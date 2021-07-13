@@ -1,0 +1,20 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-logo"https://i.imgur.com/WvF4V1k.png" group-title="Esporte",ESPN Brasil HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo"http://images.mi.tv/channels/br_sportv_m.png" group-title="Esporte",Sport TV HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo"http://i.imgur.com/bYUGfOo.png" group-title="Esporte",Fox Sports HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo"http://i.imgur.com/VhQUWnY.png" group-title="Esporte",TNT SPORTS HD/SD
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="TV ABERTA",Globo SP HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-45-canal-fox.png" group-title="Filmes"Star Channel HD
+https://content-asae1-up-1.uplynk.com/channel/33ca31585a694bcba633e1316070d9c0/e.m3u8?exp=1626155024&ct=c&cid=33ca31585a694bcba633e1316070d9c0&expand=drmOff&nielsen=1&iph=3cafb8eff92ef042c1e3a1a002d9b601ab3c0600823135f3692747669f7e3e82&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=4193755435300774be65d52c29e70d4c62d586ae379355c1ef7f075f429754fc&pbs=68e3e00d6f6a4e73b8045fef71385fb0
+
